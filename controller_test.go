@@ -3,8 +3,8 @@ package fmfm
 import (
 	"testing"
 
-	"github.com/but80/fmfm.core/ymf"
-	"github.com/but80/fmfm.core/ymf/ymfdata"
+	"github.com/Doggies-Galore/fmfm.core/ymf"
+	"github.com/Doggies-Galore/fmfm.core/ymf/ymfdata"
 	"github.com/stretchr/testify/assert"
 )
 

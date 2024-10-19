@@ -7,9 +7,9 @@ import (
 	"strings"
 	"time"
 
-	fmfm "github.com/but80/fmfm.core"
-	"github.com/but80/fmfm.core/cmd/fmfm-cli/player"
-	"github.com/but80/fmfm.core/sim"
+	fmfm "github.com/Doggies-Galore/fmfm.core"
+	"github.com/Doggies-Galore/fmfm.core/cmd/fmfm-cli/player"
+	"github.com/Doggies-Galore/fmfm.core/sim"
 	"github.com/urfave/cli"
 	"gopkg.in/but80/go-smaf.v1/pb/smaf"
 )
@@ -150,7 +150,7 @@ func main() {
 	app.Usage = "YAMAHA MA-5/YMF825 clone synthesizer"
 	app.Authors = []cli.Author{
 		{
-			Name:  "but80",
+			Name:  "Doggies-Galore",
 			Email: "mersenne.sister@gmail.com",
 		},
 	}
